@@ -2,14 +2,14 @@
 
 //En el archivo index.html que tienes abierto en el navegador (preferiblemente chrome o firefox) vamos a trabajar con la consola, abre tu inspector y en la pestaña de consola, mira si puedes ver el mensaje escrito abajo.
 
-console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
+console.log('Hola soy tu consola y juntas vamos a aprender Javascript');
 
 //Si has encontrado el mensaje puedes continuar con los ejercicios
 
 //Ejercicio 1: Imprime en la consola "Bienvenida al bootcamp de FemCoders de Factoría F5" y mira en tu navegador si sale el resultado.
 
 //Escribe tu código aquí
-console.log("Bienvenida al bootcamp de FemCoders de Factoría F5")
+console.log("Bienvenida al bootcamp de FemCoders de Factoría F5");
 
 
 
@@ -17,14 +17,24 @@ console.log("Bienvenida al bootcamp de FemCoders de Factoría F5")
 //Ejercicio 2: Crea una variable por los siguientes tipos de dato: string, number, boolean, null, undefined, object, array e imprímelos en la consola.
 
 //Escribe tu código aquí
-let string="Hola!"
-let numero=2
-let boolean= false
-let nulo = null
-let indefinido = undefined
-let fecha= date
-
-
+let texto= "Hola!";
+let numero= 2;
+let esFalso= false;
+let nulo = null;
+let indefinido = undefined;
+let animales = ["vaca", "gato", "perro", "cabra"];
+let usuario = {
+    user: "Layla",
+    edad: 25,
+    color: "naranja"
+};
+console.log(texto);
+console.log(numero);
+console.log(esFalso);
+console.log(nulo);
+console.log(indefinido);
+console.log(animales);
+console.log(usuario);
 
 //Ejercicio 3: Crea una constante llamada postres con un tipo de dato array que contiene los siguientes elementos: helado, tarta, pastel e imprímelo en la consola. 
 
