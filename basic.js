@@ -109,13 +109,13 @@ console.log ("El resultado de la división es " + division);
 let valor1 = 20;
 let valor2 = 25;
 let comparar = valor1 >= valor2;
-console.log ("20 es mayor o igual que 25: " + comparar);
+console.log ("Valor 1 es mayor o igual que valor 2: " + comparar);
 
 // Ejercicio 10: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
 
 //Escribe tu código aquí
-
-
+let comparar2 = valor1 != valor2;
+console.log ("valor 1 es distinto que valor 2: "+ comparar2)
 
 
 //Ejercicio 11: completa el ejercicio
