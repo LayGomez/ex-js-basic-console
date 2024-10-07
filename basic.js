@@ -58,8 +58,15 @@ console.log(coder);
 
 //Escribe tu código aquí
 
-
-
+console.log (typeof texto);
+console.log (typeof numero);
+console.log (typeof esFalso);
+console.log (typeof nulo);
+console.log (typeof indefinido);
+console.log (typeof animales);
+console.log (typeof usuario);
+console.log (typeof postres);
+console.log (typeof coder);
 
 //OPERADORES ARITMÉTICOS
 //Ejercicio 6: Crea una varible que sume 2 números e imprime el resultado en consola.
