@@ -72,7 +72,8 @@ console.log (typeof coder);
 //Ejercicio 6: Crea una varible que sume 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
-
+let suma = 2 + 3;
+console.log (suma);
 
 
 
