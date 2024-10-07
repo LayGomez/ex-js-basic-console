@@ -51,7 +51,7 @@ const coder = {
     nombre:"Layla",
     edad: 25
 }
-
+console.log(coder);
 
 
 //Ejercicio 5: Busca como imprimir en consola el tipo de dato de cada variable que hemos creado.
