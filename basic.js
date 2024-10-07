@@ -89,7 +89,8 @@ console.log ("La resultado es "+ resta)
 
 //Escribe tu código aquí
 
-
+let multiplicacion= 50 * 3;
+console.log ("El resultado es " + multiplicacion);
 
 
 //Ejercicio 9: Crea una varible que divida 2 números e imprime el resultado en consola.
