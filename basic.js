@@ -81,7 +81,7 @@ console.log (suma);
 
 //Escribe tu código aquí
 let resta = 40 - 30;
-console.log ("La resultado es "+ resta)
+console.log ("La resultado de la resta es "+ resta)
 
 
 
@@ -90,13 +90,14 @@ console.log ("La resultado es "+ resta)
 //Escribe tu código aquí
 
 let multiplicacion= 50 * 3;
-console.log ("El resultado es " + multiplicacion);
+console.log ("El resultado de la multiplicacion es " + multiplicacion);
 
 
 //Ejercicio 9: Crea una varible que divida 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
-
+let division =  100/10;
+console.log ("El resultado de la división es " + division);
 
 
 
