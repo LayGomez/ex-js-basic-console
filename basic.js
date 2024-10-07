@@ -20,8 +20,8 @@ console.log("Bienvenida al bootcamp de FemCoders de Factoría F5");
 let texto= "Hola!";
 let numero= 2;
 let esFalso= false;
-let nulo = null;
-let indefinido = undefined;
+let nulo= null;
+let indefinido;
 let animales = ["vaca", "gato", "perro", "cabra"];
 let usuario = {
     user: "Layla",
@@ -40,7 +40,8 @@ console.log(usuario);
 
 //Escribe tu código aquí
 
-
+const postres= ["helado", "tarta","pastel"];
+console.log(postres);
 
 
 //Ejercicio 4: Crea una constante con un tipo de dato objeto llamado coder que contengan dos propiedades, nombre y edad e imprímelo en la consola.
